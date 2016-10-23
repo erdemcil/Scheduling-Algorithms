@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1451324808 source:c:\users\administrator\desktop\cpuscheduling\main.c
+	"Header.h"
+
+1451321824 source:c:\users\administrator\desktop\cpuscheduling\delayeddisplay.c
+	"Header.h"
+
+1451321824 c:\users\administrator\desktop\cpuscheduling\header.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1451321824 source:c:\users\administrator\desktop\cpuscheduling\fcfs.c
+	"Header.h"
+
+1451321824 source:c:\users\administrator\desktop\cpuscheduling\rr.c
+	"Header.h"
+
